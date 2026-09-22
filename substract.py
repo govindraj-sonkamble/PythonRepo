@@ -4,7 +4,4 @@ o = m + n
 print(o)
 # =============
 
-p = 10 
-q = 10 
-r = p + q
-print (r)
+print("this is tester...")
