@@ -1,4 +1,4 @@
-a = 30 
-b = 20 
-c = a - b 
-print (c)
+m = 80
+n= 90
+o = m + n 
+print(o)
