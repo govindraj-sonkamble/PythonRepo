@@ -1,7 +1,8 @@
-m = 80
-n= 90
-o = m + n 
-print(o)
-# =============
 
-print("this is tester...")
+a = 30 
+b = 20 
+c = a - b 
+print (c)
+# ===================
+print("This is developer....")
+
